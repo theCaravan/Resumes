@@ -1,46 +1,54 @@
-Hadi Alaoua
+﻿Hadi Alaoua
 3185 White Pine Way Stillwater, MN 55082
-Phone: (651) 399-1900
+Phone: +1 (651) 399-1900
 Email: Hadi.Alaoua@hotmail.com
+LinkedIn: https://www.linkedin.com/in/hadi-alaoua
 Website: https://sites.google.com/view/hadi-alaoua/
-
-Summary:   	
-Highly adaptable individual who is adept at repairing and upgrading computers, installing and uninstalling software, hardware, operating systems, and troubleshooting/predicting problems. Is detail-oriented and strives for perfection by being proactive and energetic. 
-
+============================================================================================================================
+Summary:
+I really enjoy taking my knowledge of IT to the next level. I can disassemble, repair, and upgrade laptops and desktops, install/uninstall software and operating systems, troubleshoot and predict problems, and catch new skills very quickly. I am detail-oriented and always strive for perfection by being proactive and energetic. Finally, I am a valuable team member that is especially good at breaking the ice, bringing up new ideas, and following up. 
+============================================================================================================================
 Education:
-University of Minnesota – Twin Cities     
-Information Technology Infrastructure		09/2015 – 12/2018
-
-Certificates:
-IT Support Professional Certificate (February 2018) – Coursera (Google)
-
-Skills:
-System administrator related skills:	
--    Can program in Python, HTML, C, Bash, and R.
--    Can manage and organize multiple computers at once
--    Experienced in Windows, macOS, mobile OSes, and Linux
--    Enjoys installing, uninstalling, upgrading, fixing software and hardware
--    Can learn new skills as quickly as 1 week. Also, can quickly adapt.
--    Can disassemble, repair, maintain and upgrade computers
--    Self-starter, self-motivated, a problem-solver, and always follows up.
--    Comfortable with Microsoft Office, VirtualBox, and TeamViewer
-
-Soft Skills:
--	Detail oriented
--	Strives to be perfect
--	Energetic, optimistic, and positive
-
+University of Minnesota – Minneapolis, MN
+Expected Graduation: December 2018
+Bachelors of Applied Science in Information Technology Infrastructure, Systems Subplan
+Computer Science Minor
+============================================================================================================================
+Certifications:
+Google IT Support Professional Certificate – Coursera
+February 2018
+============================================================================================================================
 Work Experience:
 Computer Lab Volunteer
-Al-Amal School					10/2013 – Present
--	Updates, fixes, maintains and manages 30-60 computers
--	Helps students with learning material
+Al-Amal School – Fridley, MN
+October 2013 – Present
+- Updates, fixes, troubleshoots, maintains and manages 30-60 computers
+- Helps students with learning material
 - Provides IT support to staff and students
--	Maintains printers, projectors, tablets, and SmartBoards
+- Maintains printers, projectors, tablets, and SmartBoards
 
-Audio Visual Operator					 
-University of Minnesota – Twin Cities		09/2017 – 05/2018
--	Records entire class lectures
--	Controls multiple cameras, microphones, projectors, lighting 
--	Serves as the first line of support if equipment goes wrong
+UNITE AV Operator
+University of Minnesota – Minneapolis, MN
+September 2017 – May 2018
+- Records entire class lectures
+- Controls multiple cameras, microphones, projectors, lighting 
+- Provides first line of IT support if equipment goes wrong
+============================================================================================================================
+Languages:
+English, Arabic
+============================================================================================================================
+IT Skills:
 
+Programming: 		C, Python, Bash, PowerShell, Ruby, Perl, HTML, Java, R
+Operating Systems:	Windows, Linux, macOS, Android, iOS
+Microsoft Office:	Word, Excel, PowerPoint, Outlook
+Databases:		MySQL, MongoDB, Neo4j
+Remote Access:		TeamViewer, Windows Remote Desktop, SSH
+Networking:		OSI Model, Wi-Fi, Ethernet, Routers, DNS, DHCP
+Virtual Machines:	VirtualBox, Hyper-V, Docker
+Miscellaneous:		Active Directory, Group Policy, Prometheus
+============================================================================================================================
+Soft Skills:
+
+Character:		Energetic, Highly Driven, Positive, Optimistic, Detail Oriented, Perfectionist
+Teamwork:		Leader, Ice Breaker, Communicator, Always Reliable, Idea Generator
