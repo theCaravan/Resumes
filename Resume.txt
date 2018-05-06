@@ -16,39 +16,33 @@ I enjoy taking my knowledge of IT to the next level. I can disassemble, repair, 
 =========================================================================
 Education:
 
-University of Minnesota – Minneapolis, MN
+University of Minnesota â€“ Minneapolis, MN
 Expected Graduation: December 2018
 Bachelors of Applied Science in Information Technology Infrastructure, Systems Track
 Computer Science Minor
 =========================================================================
 Certifications:
 
-Google IT Support Professional Certificate – Coursera
+Google IT Support Professional Certificate â€“ Coursera
 February 2018
 =========================================================================
 Work Experience:
 
 Computer Lab Volunteer
-Al-Amal School – Fridley, MN
-October 2013 – Present
+Al-Amal School â€“ Fridley, MN
+October 2013 â€“ Present
 - Updates, fixes, troubleshoots, maintains, and manages 30-60 computers
 - Helps students with learning material
 - Maintains printers, projectors, Surface RT tablets, SmartBoards, speaker system, and more
 - Provides IT support to staff and students
 
 UNITE AV Operator				
-University of Minnesota – Minneapolis, MN
-September 2017 – May 2018
+University of Minnesota â€“ Minneapolis, MN
+September 2017 â€“ May 2018
 - Records entire class lectures
-<<<<<<< HEAD
 - Controls multiple cameras, microphones, projectors, lighting
 - Provides the first line of IT support if equipment goes wrong
 =========================================================================
-=======
-- Controls multiple cameras, microphones, projectors, lighting 
-- Provides the first line of IT support if equipment goes wrong
-============================================================================================================================
->>>>>>> 340ab59f6be5d1e4e799fe07769fe8d894504528
 Languages:
 
 English, Arabic
@@ -67,11 +61,6 @@ Miscellaneous:		Active Directory, Group Policy, Prometheus, GitHub
 =========================================================================
 Soft Skills:
 
-<<<<<<< HEAD
 Character:		Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
 Teamwork:		Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
 =========================================================================
-=======
-Character:		Energetic, Highly Driven, Positive, Optimistic, Detail Oriented, Perfectionist
-Teamwork:		Leader, Ice Breaker, Communicator, Always Reliable, Idea Generator
->>>>>>> 340ab59f6be5d1e4e799fe07769fe8d894504528
