@@ -40,9 +40,15 @@ UNITE AV Operator
 University of Minnesota – Minneapolis, MN
 September 2017 – May 2018
 - Records entire class lectures
+<<<<<<< HEAD
 - Controls multiple cameras, microphones, projectors, lighting
 - Provides the first line of IT support if equipment goes wrong
 =========================================================================
+=======
+- Controls multiple cameras, microphones, projectors, lighting 
+- Provides the first line of IT support if equipment goes wrong
+============================================================================================================================
+>>>>>>> 340ab59f6be5d1e4e799fe07769fe8d894504528
 Languages:
 
 English, Arabic
@@ -61,6 +67,11 @@ Miscellaneous:		Active Directory, Group Policy, Prometheus, GitHub
 =========================================================================
 Soft Skills:
 
+<<<<<<< HEAD
 Character:		Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
 Teamwork:		Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
 =========================================================================
+=======
+Character:		Energetic, Highly Driven, Positive, Optimistic, Detail Oriented, Perfectionist
+Teamwork:		Leader, Ice Breaker, Communicator, Always Reliable, Idea Generator
+>>>>>>> 340ab59f6be5d1e4e799fe07769fe8d894504528
