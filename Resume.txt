@@ -1,4 +1,4 @@
-Hadi Alaoua
+﻿Hadi Alaoua
 Computer Lab Volunteer at Al-Amal School
 =========================================================================
 Contact Information:
@@ -6,7 +6,7 @@ Contact Information:
 Address: 	3185 White Pine Way, Stillwater, MN 55082
 Phone: 		+1 (651) 399-1900
 Email:		Hadi.Alaoua@hotmail.com
-LinkedIn: https://www.linkedin.com/in/hadi-alaoua
+LinkedIn: 	https://www.linkedin.com/in/hadi-alaoua
 GitHub: 	https://www.github.com/theCaravan
 Website:	https://sites.google.com/view/hadi-alaoua/
 =========================================================================
