@@ -31,7 +31,7 @@ Work Experience:
 Computer Lab Volunteer
 Al-Amal School – Fridley, MN
 October 2013 – Present
-- Updates, fixes, troubleshoots, maintains, and manages 30-60 computers
+- Updates, fixes, troubleshoots, maintains and manages 30-60 computers
 - Helps students with learning material
 - Maintains printers, projectors, Surface RT tablets, SmartBoards, speaker system, and more
 - Provides IT support to staff and students
@@ -57,7 +57,7 @@ Remote Access:		TeamViewer, Windows Remote Desktop, SSH
 Networking:		OSI Model, Wi-Fi, Ethernet, Routers, DNS, DHCP
 Virtual Machines:	VirtualBox, Hyper-V, Docker
 Other IT Concepts:	Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
-Miscellaneous:		Active Directory, Group Policy, Prometheus, GitHub
+Miscellaneous:		Active Directory, WSUS, Group Policy, Prometheus, GitHub
 =========================================================================
 Soft Skills:
 
