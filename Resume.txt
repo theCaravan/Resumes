@@ -1,9 +1,9 @@
-﻿Hadi Alaoua
-Support Automation and Integration Specialist at Sezzle Inc
+Hadi Alaoua
+Automation and Integration Specialist at Sezzle
 =========================================================================
 Contact Information:
 
-Location: Greater Minneapolis-St Paul, MN, USA
+Location: Greater Minneapolis – St Paul, Minnesota, United States
 Phone: 		+1 (651) 399-1900
 Email:		Hadi.Alaoua@hotmail.com
 LinkedIn: https://www.linkedin.com/in/hadi-alaoua
@@ -12,22 +12,22 @@ Website:	https://sites.google.com/view/hadi-alaoua/
 =========================================================================
 Summary:
 
-Enjoys taking knowledge of IT to the next level while providing excellent customer support. Can disassemble, repair, and upgrade laptops and desktops, install/uninstall software and operating systems, troubleshoot and predict problems, administer ticketing systems, and catch new skills very quickly. Is detail-oriented and always strive for perfection by utilizing feedback. Finally, is a valuable team member who is especially good at breaking the ice, bringing up new ideas, and following up.  
+Enjoys taking knowledge of IT to the next level while providing excellent customer support. Has caught new skills very quickly. Is detail-oriented and always strives for perfection by utilizing feedback. Finally, is a valuable team member who is especially good at breaking the ice, bringing up new ideas, and following up.
 =========================================================================
 Education:
 
-University of Wisconsin - Stout, Online
-Expected Graduation: 2021
-Masters of Science in Information and Communications Teechnologies
+University of Wisconsin, Stout – Online
+Expected: December 2021
+Master of Science in Information and Communications Technologies
 
 University of Minnesota – Minneapolis, MN
-2015 - 2018
-Bachelors of Applied Science in Information Technology Infrastructure, Systems Track
+December 2018
+Bachelor of Applied Science in Information Technology Infrastructure, Systems Track
 Computer Science Minor
 =========================================================================
 Certifications:
 
-Certified Linux Pro - Testout Corp
+Certified Linux Pro - TestOut Corp
 July 2020
 
 Google IT Support Professional Certificate – Coursera
@@ -39,51 +39,33 @@ Support Automation and Integration Specialist
 Sezzle Inc - Minneapolis, MN
 March 2020 - present
 - Finds opportunities to automate customer support
-- Assists other agents in customer support inquries
-- Assisted in transitioning to ZenDesk
-- Is administrator for LiveAgent and ZenDesk
+- Assisted in transitioning to Zendesk
+- Is administrator for LiveAgent and Zendesk
 
 Customer Experience Representative
 Sezzle Inc - Minneapolis, MN
 August 2018 - March 2020
-- Worked with LiveAgent to assist customers in email
-- Handled a total 50,000 tickets in February 2020
-- Communicated with Dev, Engineering, and Product to improve Sezzle
-- Assisted other agents in customer support inquries
-
-UNITE AV Operator				
-University of Minnesota – Minneapolis, MN
-August 2017 – May 2018
-- Records entire class lectures
-- Controls multiple cameras, microphones, projectors, lighting
-- Provides the first line of IT support if equipment goes wrong
+-	Worked with Live Agent ticketing system and answered 50,000 tickets as of February 2020
+-	Provided customer support via email and contact forms
+-	Dedicated time to understanding as much of the product as possible
+- Assisted other agents in customer support inquiries
+-	Excellent collaborator within team and between departments
 
 Computer Lab Volunteer
 Al-Amal School – Fridley, MN
 October 2013 – May 2018
-- Updates, fixes, troubleshoots, maintains and manages 30-60 computers
-- Helps students with learning material
-- Maintains printers, projectors, Surface RT tablets, SmartBoards, speaker system, and more
-- Provides IT support to staff and students
-=========================================================================
-Languages:
-
-English, Arabic
+- Updated, fixed, troubleshooted, maintained and managed 30-60 computers
+-	Maintained printers, projectors, Surface RT tablets, SmartBoards, speaker system, and more
+- Provided IT support to staff and students
 =========================================================================
 IT Skills:
 
-Programming: 		C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
+Programming: 	      C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
 Operating Systems:	Windows, Linux, macOS, Android, iOS
-Microsoft Office:	Word, Excel, PowerPoint, Outlook
-Databases:		MySQL, MongoDB, Neo4j
-Remote Access:		TeamViewer, Windows Remote Desktop, SSH
-Networking:		OSI Model, Wi-Fi, Ethernet, Routers, DNS, DHCP
-Virtual Machines:	VirtualBox, VMware
-Other IT Concepts:	Reimaging, Troubleshooting, Automation, Scripting 
-Miscellaneous:		Active Directory, WSUS, Group Policy, Prometheus, GitHub
+Other IT Skils:	    Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
 =========================================================================
 Soft Skills:
 
-Character:		Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
-Teamwork:		Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
+Character:		       Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
+Teamwork:	           Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
 =========================================================================
