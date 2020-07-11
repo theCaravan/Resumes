@@ -3,12 +3,12 @@ Automation and Integration Specialist at Sezzle
 =========================================================================
 Contact Information:
 
-Location: Greater Minneapolis – St Paul, Minnesota, United States
-Phone: 			+1 (651) 399-1900
-Email:			Hadi.Alaoua@hotmail.com
-LinkedIn: 		https://www.linkedin.com/in/hadi-alaoua
-GitHub: 		https://www.github.com/theCaravan
-Website:		https://sites.google.com/view/hadi-alaoua/
+Location:       Greater Minneapolis – St Paul, Minnesota, United States
+Phone:          +1 (651) 399-1900
+Email:          Hadi.Alaoua@hotmail.com
+LinkedIn:       https://www.linkedin.com/in/hadi-alaoua
+GitHub:         https://www.github.com/theCaravan
+Website:        https://sites.google.com/view/hadi-alaoua/
 =========================================================================
 Summary:
 
@@ -60,12 +60,12 @@ October 2013 – May 2018
 =========================================================================
 IT Skills:
 
-Programming: 	      	C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
-Operating Systems:	Windows, Linux, macOS, Android, iOS
-Other IT Skils:		Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
+Programming:          C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
+Operating Systems:    Windows, Linux, macOS, Android, iOS
+Other IT Skils:       Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
 =========================================================================
 Soft Skills:
 
-Character:		Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
-Teamwork: 		Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
+Character:            Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
+Teamwork:             Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
 =========================================================================
