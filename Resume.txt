@@ -4,11 +4,11 @@ Automation and Integration Specialist at Sezzle
 Contact Information:
 
 Location: Greater Minneapolis – St Paul, Minnesota, United States
-Phone: 		+1 (651) 399-1900
-Email:		Hadi.Alaoua@hotmail.com
-LinkedIn: https://www.linkedin.com/in/hadi-alaoua
-GitHub: 	https://www.github.com/theCaravan
-Website:	https://sites.google.com/view/hadi-alaoua/
+Phone: 			+1 (651) 399-1900
+Email:			Hadi.Alaoua@hotmail.com
+LinkedIn: 		https://www.linkedin.com/in/hadi-alaoua
+GitHub: 		https://www.github.com/theCaravan
+Website:		https://sites.google.com/view/hadi-alaoua/
 =========================================================================
 Summary:
 
@@ -45,27 +45,27 @@ March 2020 - present
 Customer Experience Representative
 Sezzle Inc - Minneapolis, MN
 August 2018 - March 2020
--	Worked with Live Agent ticketing system and answered 50,000 tickets as of February 2020
--	Provided customer support via email and contact forms
--	Dedicated time to understanding as much of the product as possible
+- Worked with Live Agent ticketing system and answered 50,000 tickets as of February 2020
+- Provided customer support via email and contact forms
+- Dedicated time to understanding as much of the product as possible
 - Assisted other agents in customer support inquiries
--	Excellent collaborator within team and between departments
+- Excellent collaborator within team and between departments
 
 Computer Lab Volunteer
 Al-Amal School – Fridley, MN
 October 2013 – May 2018
 - Updated, fixed, troubleshooted, maintained and managed 30-60 computers
--	Maintained printers, projectors, Surface RT tablets, SmartBoards, speaker system, and more
+- Maintained printers, projectors, Surface RT tablets, SmartBoards, speaker system, and more
 - Provided IT support to staff and students
 =========================================================================
 IT Skills:
 
-Programming: 	      C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
+Programming: 	      	C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
 Operating Systems:	Windows, Linux, macOS, Android, iOS
-Other IT Skils:	    Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
+Other IT Skils:		Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
 =========================================================================
 Soft Skills:
 
-Character:		       Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
-Teamwork:	           Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
+Character:		Energetic, Proactive, Positive, Optimistic, Detail Oriented, Perfectionist
+Teamwork: 		Leader, Ice Breaker, Communicator, Always Reliable, Problem Solving, Creative
 =========================================================================
