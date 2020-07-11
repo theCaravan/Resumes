@@ -62,7 +62,7 @@ IT Skills:
 
 Programming:          C, Python, Bash, YAML, Ruby, Perl, HTML, Java, R
 Operating Systems:    Windows, Linux, macOS, Android, iOS
-Other IT Skils:       Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
+Other IT Skills:       Reimaging, Troubleshooting, Automation, Scripting, Customer Service 
 =========================================================================
 Soft Skills:
 
